@@ -4,7 +4,7 @@ This repository contains the code used for the experiments in "Ranking for Relev
 Citation
 --------
 
-If you use this code to produce results for your scientific publication, please refer to our CIKM 2018 paper:
+If you use this code to produce results for your scientific publication, please refer to our SIGIR 2018 paper:
 
 ```
 @inproceedings{oosterhuis2018ranking,
